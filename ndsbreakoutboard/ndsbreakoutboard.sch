@@ -25,7 +25,7 @@ F 3 "~" H 6550 1500 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Connector:ndsPADS U1
+L ndsbreakoutboard-rescue:ndsPADS-Connector U1
 U 1 1 5FF2F120
 P 5950 2950
 F 0 "U1" H 6478 3492 50  0000 L CNN
