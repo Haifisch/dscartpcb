@@ -18,8 +18,8 @@ Anyways, the design is simple, provided for-free and as open source as I can mak
 
 ![](./images/PEPCART.png)
 
-![](./images/full.png)
+![](./images/full.PNG)
 
-![](./images/base.png)
+![](./images/base.PNG)
 
 
